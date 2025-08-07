@@ -136,7 +136,7 @@ Forecasts proactively guide retagging and leasing.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE).  
+This project is licensed under the [MIT License](./LICENSE.txt).  
 Copyright © 2025 **Rishi Madhavaram**
 
 You are free to use, modify, and distribute this project as long as the original license and copyright notice are retained.

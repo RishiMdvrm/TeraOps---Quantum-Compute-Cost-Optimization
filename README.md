@@ -134,7 +134,7 @@ Forecasts proactively guide retagging and leasing.
 - **Transformer Forecasting**: Replace LSTM with scalable transformers
 - **Security & Privacy**: Enforce guardrails around assistant outputs
 
-### 📜 License
+## 📜 License
 
 This project is licensed under the [MIT License](./LICENSE).  
 Copyright © 2025 **Rishi Madhavaram**
@@ -148,5 +148,5 @@ You are free to use, modify, and distribute this project as long as the original
 - Prof. Petrov, Plamen (UIC), Advisor Rana, Manoj
 - Stable-Baselines3, PyTorch, HuggingFace, LangChain
 
-### 💬 Questions?
+## 💬 Questions?
 Open an issue or ping us in the Discussions tab. Happy optimizing!
